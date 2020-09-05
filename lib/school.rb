@@ -9,8 +9,8 @@ class School
     roster = {} 
   end 
   
-  def add_student[name, :grade]
-    roster << :grade => name
+  def add_student[name, grade]
+    roster["grade"] << name
   end 
     
  # binding.pry
