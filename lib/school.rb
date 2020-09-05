@@ -18,6 +18,6 @@ class School
   end 
   
   def grade(grade)
-    student
+    roster[grade]
   end 
 end 
