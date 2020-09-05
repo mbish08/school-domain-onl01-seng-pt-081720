@@ -8,7 +8,5 @@ class School
     @name = name
   end 
   
- # binding.pry
-  
   
 end 
